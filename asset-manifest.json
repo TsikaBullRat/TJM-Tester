@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0f2ad69.css",
+    "main.js": "/static/js/main.ca77f687.js",
+    "static/js/787.ece2a904.chunk.js": "/static/js/787.ece2a904.chunk.js",
+    "static/media/alexandre-debieve.jpg": "/static/media/alexandre-debieve.65a8a5fc702acec366c4.jpg",
+    "static/media/jackson-david.jpg": "/static/media/jackson-david.96ab15982a535f9c5ef4.jpg",
+    "static/media/ian-battaglia.jpg": "/static/media/ian-battaglia.3ad75c7dcf6088aa4196.jpg",
+    "static/media/tjm-logo.png": "/static/media/tjm-logo.5a58ee41a0a386996d75.png",
+    "index.html": "/index.html",
+    "main.b0f2ad69.css.map": "/static/css/main.b0f2ad69.css.map",
+    "main.ca77f687.js.map": "/static/js/main.ca77f687.js.map",
+    "787.ece2a904.chunk.js.map": "/static/js/787.ece2a904.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0f2ad69.css",
+    "static/js/main.ca77f687.js"
+  ]
+}
